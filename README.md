@@ -1,2 +1,2 @@
 # Scripts
-Divers scripts réalisés sur mon temps personnel ou mes études.
+Divers scripts réalisés durant mes études ou de façon personnelle.
